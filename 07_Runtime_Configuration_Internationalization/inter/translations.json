@@ -1,0 +1,10 @@
+{
+    "en": {
+        "greeting": "Hello, World!",
+        "thanks": "Thank you for your using our application."
+    },
+    "id":{
+        "greeting": "Halo, Dunia!",
+        "thanks": "Terima kasih telah menggunakan aplikasi kami."
+    }
+}
