@@ -1,4 +1,4 @@
-# 📌 Konstruksi Perangkat Lunak (KPL) - SE07-02 
+# 📌 Konstruksi Perangkat Lunak (KPL) - SE07-02  
 
 ## 📖 Deskripsi Mata Kuliah
 Mata kuliah **Konstruksi Perangkat Lunak (KPL)** membahas teknik dan praktik dalam pembangunan perangkat lunak yang efisien, berkualitas, dan dapat dikelola dengan baik. Mahasiswa akan belajar tentang konsep konstruksi perangkat lunak, penggunaan alat bantu pengembangan, penerapan teknik coding yang baik, serta strategi debugging dan testing.
