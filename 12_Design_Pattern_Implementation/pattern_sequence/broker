@@ -1,0 +1,16 @@
+from src.observer.subject import Subject
+from src.observer.observer import Observer
+
+class ConcreteObserver(Observer):
+    def update(self, subject):
+        print(f"Observer notified with subject: {subject}")
+
+def main():
+    # Menggunakan Observer Pattern
+    subject = Subject()
+    observer = ConcreteObserver()
+    subject.attach(observer)
+    subject.notify()  # Output: Observer notified with subject: <__main__.Subject object at 0x7f8b741cfeb0>
+
+if __name__ == "__main__":
+    main()
